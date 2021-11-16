@@ -1,0 +1,61 @@
+.fieldset{
+    width: 80%; 
+    height: 100%;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    height: 400px;
+}   
+#img img{
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.profile p{
+    text-align: right;
+    margin-top: -170px;
+}
+.content{
+    width: 90%;
+    height: 200px;
+    margin-top: 20px;
+    margin: auto;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+}
+.kiri{
+    width: 30%;
+    height: 100%;
+    float: left;
+    border: 1px solid;
+}
+.kiri video{
+    width: 100%;
+    height: 100%;
+}
+.tengah{
+    width: 30%;
+    height: 100%;
+    margin-left: 450px;
+ border: 1px solid;
+}
+.tengah img{
+    width: 40%;
+    height: 40%;
+    padding-left:25px;
+    padding-top: 18px;
+}
+.kanan{
+    width: 30%;
+    height: 100%;
+    margin-top: -300px ;
+    float: right;
+    border: 1px solid;
+}
+.kanan audio{
+    padding-left: 20px;
+    padding-top: 20px;
+}

@@ -1,0 +1,222 @@
+body{
+    background-color: rgb(163, 226, 241);
+}
+.kotakutama{
+    width: 800px;
+    height: 810px; 
+    background: white; 
+    margin: auto; 
+    border:1px solid black;
+}
+.header{
+    width: 800px; 
+    height: 80px; 
+    background: lightgrey; 
+    border-bottom:1px solid black;
+}
+.kotak{
+    width : 16px; 
+    height: 16px; 
+    margin-top: 15px; 
+    margin-left: 40px;
+}
+.link{
+    padding-left: 20px; 
+    padding-top: 18px; 
+    font-size: 15px;
+}
+.searc{
+    padding-left: 270px; 
+    padding-top: 18px
+}
+.searc img{
+    width: 15px; 
+    height: 15px
+}
+.blnj{
+    padding-left: 10px; 
+    padding-top: 18px;
+} 
+.blnj img{
+    width: 15px; 
+    height: 15px;
+}
+.crt{
+    padding-left: 10px; 
+    padding-top: 18px; 
+    font-size: 15px
+}
+.isikiri{
+    width: 60%; 
+    height: 350px; 
+    background: white; 
+    float: left;
+}
+.tbl{
+    margin-top: 50px; 
+    margin-left: 40px;
+}
+.ceklis{
+    width: 40px; 
+    height: 40px; 
+    margin-right: 20px;
+}
+.order{
+    float: left; 
+    font-size: 12px;
+}
+.thnk{
+    font-size: 20px;
+}
+.grs1{
+    float: right;
+    width: 430px;
+}
+.grs2{
+    float: right;
+    width:430px;
+}
+.tekx{
+    width: 60%px; 
+    height: 200px;
+}
+.tekskiri{
+    width: 50%; 
+    height: 200px; 
+    float: left;
+}
+.h4{
+    padding-left: 50px;
+}
+.p1{
+    padding-left: 50px;
+}
+.p2{
+    padding-left: 50px; 
+    color: blue;
+}
+.p3{
+    padding-left: 50px;
+}
+.tekskanan{
+    width: 50%; 
+    height: 200px; 
+    float: left;
+}
+.h44{
+    padding-left: 50px; 
+    color: white;
+}
+.p4{
+    padding-left: 50px;
+}
+.p5{
+    padding-left: 50px; 
+    color: blue;
+}
+.p6{
+    padding-left: 50px;
+}
+.p6 .pic1{
+    width: 30px; 
+    height: 20px; 
+    float: left;
+}
+.grs3{
+    float: right; 
+    width: 430px;
+}
+.isikanan{
+    width: 40%; 
+    height: 350px; 
+    background: white; 
+    float: left;
+}
+.isi{
+    width: 260px; 
+    height: 250px; 
+    background: lightgrey; 
+    margin-left:25px; 
+    margin-top:60px; 
+    border:1px solid black;
+}
+.lab{
+    padding-left: 12px; 
+    padding-top: 19px; 
+    font-size: 16px;
+}
+.sub{
+    padding-left: 10px; 
+    padding-top: 10px; 
+    font-size: 13px;
+}
+.dua{
+    padding-left: 105px; 
+    padding-top: 10px; 
+    font-size: 13px
+}
+.ship{
+    padding-left: 10px; 
+    padding-top: 5px; 
+    font-size: 13px;
+}
+.strip1{
+    padding-left: 135px; 
+    padding-top: 5px;
+}.eat{
+    padding-left: 10px; 
+    padding-top: 5px; 
+    font-size: 13px;
+}
+.strip2{
+    padding-left: 135px; 
+    padding-top: 5px;
+}
+.gif{
+    padding-left: 10px; 
+    padding-top: -23px; 
+    font-size: 13px
+}
+.tot{
+    padding-left: 15px;
+    font-weight: bold;
+}
+.hasil{
+    padding-left: 135px;
+    font-weight: bold;
+}
+.footer{
+    width: 800px; 
+    height: 105px; 
+    float: left; 
+    margin-top: 270px; 
+    border-top:1px solid black;
+}
+.link2{
+    padding-left: 10px; 
+    font-size: 15px; 
+    border-style: hidden;
+}
+.stay{
+    padding-left: 235px; 
+    font-size: 15px; 
+    border-style: hidden;
+}
+.pict11{
+    width: 30px; 
+    height: 20px; 
+    float: left; 
+    padding-left: 40px;
+}
+.pict2{
+    width: 30px; 
+    height: 20px; 
+    float: left; 
+    padding-left: 5px; 
+    padding-bottom: 10px;
+}
+.pict3{
+    width: 30px; 
+    height: 20px; 
+    float: left;
+}
