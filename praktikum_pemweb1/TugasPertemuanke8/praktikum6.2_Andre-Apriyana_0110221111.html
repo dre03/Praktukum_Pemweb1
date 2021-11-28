@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tugas praktikum 6.2 Andre Apriyana_0110221111_TI04</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        body{
+            display: flex;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .containner1{
+            display: flex;
+            flex: 1;
+            /* justify-content: space-around; */
+        }
+        .containner2{
+            display: flex;
+            /* flex: 1; */
+            flex-direction: column;
+            flex-grow: 1;
+            flex-direction: flex ;
+            align-items: stretch;
+
+        }
+        .main{
+            display: flex;
+            flex: 1;
+        }
+        .main > article{
+            flex: 1;
+            order: 0;
+            
+        }
+        .containner1 > nav{
+            flex: 0 0 20vw;
+        }
+        .containner1 > nav{
+            background: palevioletred;
+            order: 0;
+        }
+        .main > aside{
+            background: cyan;
+            order: 1;
+            flex: 0 0 20vw;
+
+        }
+        header,footer{
+            background: khaki;
+            height: 20vh;
+        }
+        header,footer,article,nav,aside{
+            padding: 1em;
+        }
+    </style>
+</head>
+<body>
+   <div class="containner1">
+        <nav>Nav</nav>
+    <div class="containner2">
+        <header>Header</header>
+        <div class="main">
+            <article>Article</article>
+            <aside>Aside</aside>
+        </div>
+        <footer>Footer</footer>
+    </div>
+    </div>
+</body>
+</html>
